@@ -4,10 +4,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW&si=qtnyBXs3ioHnQsNu) <br>
 
-<img src="https://cdn-icons-png.flaticon.com/512/2996/2996730.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
-
 # 🌟CONCEITO:
 O conceito de hardware, em termos técnicos, refere-se aos componentes físicos e eletrônicos de um sistema de computador. Esses componentes são tangíveis e desempenham um papel crucial na operação e funcionalidade de um computador. Hardware inclui uma ampla gama de dispositivos, desde os principais componentes de um computador pessoal, como processadores e memória, até dispositivos de entrada e saída, como teclados, mouses, monitores e impressoras.
 
