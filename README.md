@@ -2,7 +2,6 @@
 👨‍⚖️HARDWARE É A PARTE FÍSICA DE UM COMPUTADOR OU DISPOSITIVO ELETRÔNICO, INCLUINDO COMPONENTES COMO PROCESSADOR, MEMÓRIA, DISCO RÍGIDO, PLACA-MÃE, ENTRE OUTROS. É RESPONSÁVEL PELO FUNCIONAMENTO E PROCESSAMENTO DE DADOS DO DISPOSITIVO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=HARDAWARE)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW&si=qtnyBXs3ioHnQsNu) <br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/2996/2996730.png" align="center" width="280"> <br>
