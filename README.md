@@ -1,10 +1,9 @@
 # CURSO DE HARDWARE
 👨‍⚖️HARDWARE É A PARTE FÍSICA DE UM COMPUTADOR OU DISPOSITIVO ELETRÔNICO, INCLUINDO COMPONENTES COMO PROCESSADOR, MEMÓRIA, DISCO RÍGIDO, PLACA-MÃE, ENTRE OUTROS. É RESPONSÁVEL PELO FUNCIONAMENTO E PROCESSAMENTO DE DADOS DO DISPOSITIVO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW&si=qtnyBXs3ioHnQsNu) <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# 🌟CONCEITO:
+## CONCEITO:
 O conceito de hardware, em termos técnicos, refere-se aos componentes físicos e eletrônicos de um sistema de computador. Esses componentes são tangíveis e desempenham um papel crucial na operação e funcionalidade de um computador. Hardware inclui uma ampla gama de dispositivos, desde os principais componentes de um computador pessoal, como processadores e memória, até dispositivos de entrada e saída, como teclados, mouses, monitores e impressoras.
 
 Os principais componentes de hardware de um computador incluem:
@@ -31,7 +30,7 @@ Os principais componentes de hardware de um computador incluem:
 
 A compreensão desses componentes é essencial para qualquer profissional de hardware, pois permite a montagem, manutenção e solução de problemas de computadores. Além disso, o hardware está em constante evolução, com novas tecnologias e componentes sendo desenvolvidos regularmente, o que faz com que a atualização do conhecimento seja vital para acompanhar as tendências e melhorias na indústria de hardware de computadores.
 
-# 💚SUA HISTÓRIA:
+## SUA HISTÓRIA:
 A história do hardware de computadores é uma jornada fascinante que remonta ao início do século XIX e evoluiu rapidamente ao longo dos anos. Vamos explorar os marcos históricos e eventos importantes na evolução do hardware de computadores.
 
 1. **Máquinas Mecânicas e Analíticas (Século XIX):** A história do hardware começa com máquinas mecânicas como a Máquina Diferencial de Charles Babbage e a Máquina Analítica, que foram projetadas para realizar cálculos matemáticos. Embora essas máquinas fossem mecânicas, elas representaram um princípio fundamental da computação.
@@ -56,11 +55,8 @@ A história do hardware de computadores é uma jornada fascinante que remonta ao
 
 A história do hardware de computadores é uma história de constante inovação e avanço tecnológico. Hoje, a tecnologia de hardware continua a evoluir rapidamente, com novos avanços em campos como computação quântica, realidade virtual e inteligência artificial, moldando o futuro da indústria de computadores. É uma área emocionante e em constante transformação que continua a desempenhar um papel fundamental em nossas vidas pessoais e profissionais.
 
-# 💥CARACTERISTICAS:
-As características positivas e negativas do hardware de computadores podem afetar diretamente o desempenho, a usabilidade e a eficiência de um sistema. Vamos analisar algumas das características mais significativas, tanto positivas quanto negativas, do hardware de computadores:
-
-**Características Positivas:**
-
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Desempenho:** Hardware de alta qualidade, como processadores rápidos, placas gráficas poderosas e memória suficiente, resulta em um desempenho mais rápido e eficaz, permitindo que os computadores executem tarefas complexas e de maneira eficiente.
 
 2. **Confiabilidade:** Componentes de hardware confiáveis tendem a funcionar sem problemas por longos períodos, diminuindo a necessidade de manutenção e interrupções.
@@ -73,8 +69,7 @@ As características positivas e negativas do hardware de computadores podem afet
 
 6. **Portabilidade:** Hardware leve e compacto, como laptops e dispositivos móveis, oferece a conveniência de mobilidade e acesso a informações em qualquer lugar.
 
-**Características Negativas:**
-
+### NEGATIVAS:
 1. **Obsolescência:** O hardware pode se tornar obsoleto rapidamente devido aos avanços tecnológicos, tornando necessária a substituição frequente para acompanhar as demandas atuais.
 
 2. **Custo:** Hardware de alto desempenho e qualidade frequentemente tem um custo elevado, o que pode ser um fator limitante para muitos usuários.
@@ -91,4 +86,6 @@ As características positivas e negativas do hardware de computadores podem afet
 
 8. **Resíduos Eletrônicos:** O descarte inadequado de hardware antigo pode levar a problemas de resíduos eletrônicos e impactos ambientais negativos.
 
-É importante considerar essas características ao escolher, configurar e manter hardware de computadores. A seleção de hardware deve ser feita com base nas necessidades e objetivos específicos, considerando os aspectos positivos e negativos para obter o melhor equilíbrio entre desempenho, custo e eficiência.
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW&si=qtnyBXs3ioHnQsNu)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
